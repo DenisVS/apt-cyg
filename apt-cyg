@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+#$Id:$
 # apt-cyg: install tool for cygwin similar to debian apt-get
 #
 # Copyright (C) 2005-9, Stephen Jungels
